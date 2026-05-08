@@ -1,2 +1,2 @@
-# Capitals-Quiz
-A Quiz about countries and capitals
+# Schlue Bot
+## You can chat with Schlue Bot.
